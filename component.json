@@ -1,0 +1,16 @@
+{
+  "name": "ngAnimate",
+  "repo": "mndvns/ngAnimate",
+  "description": "ngAnimate module for Angular",
+  "version": "1.2.16",
+  "keywords": ["angular", "animate"],
+  "dependencies": {
+    "camshaft/component-angular": "^1.2.16"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
